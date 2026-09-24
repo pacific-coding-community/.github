@@ -1,6 +1,3 @@
-# .github
-
-
 # Welcome to Pacific Coding Community 🌴💻
 
 We are a collaborative community focusing on open-source software, GIS, and data science across the Pacific region.
