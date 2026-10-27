@@ -22,7 +22,12 @@ For those students seeking to stay connected and learn more about the content of
 -     https://github.com/pacific-coding-community
 
 
-## TOPIC OF TODAY 25 September 2026: 
+## RECENT TOPICS 
+27 October 2026:
+DEM Exporter : https://github.com/nicholasmetherall/dem-exporter
+Digital Earth Pacific FNU : https://github.com/pacific-coding-community/digitalearthpacific-fnu/tree/main
+
+25 September 2026: 
 https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/e2b8c946-9fe0-459e-8275-b17d98eaec91" />   
 
