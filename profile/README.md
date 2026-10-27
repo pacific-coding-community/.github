@@ -30,6 +30,7 @@ DEM Exporter : https://github.com/nicholasmetherall/dem-exporter
 
 
 Digital Earth Pacific FNU : https://github.com/pacific-coding-community/digitalearthpacific-fnu/tree/main
+Course Google Drive materials: https://drive.google.com/drive/folders/13nD9Zau3nddDtrKyoRqTl6_hEoPetyVl?usp=sharing
 
 25 September 2026: 
 https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026
