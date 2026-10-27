@@ -29,8 +29,11 @@ DEM Exporter : https://github.com/nicholasmetherall/dem-exporter
 <img width="359" height="266" alt="cop-dem-glo-sample" src="https://github.com/user-attachments/assets/0174e65a-f0d0-4ed8-9009-e9b79ef1a583" />
 
 
-Digital Earth Pacific FNU : https://github.com/pacific-coding-community/digitalearthpacific-fnu/tree/main
-Course Google Drive materials: https://drive.google.com/drive/folders/13nD9Zau3nddDtrKyoRqTl6_hEoPetyVl?usp=sharing
+Digital Earth Pacific FNU : https://github.com/pacific-coding-community/digitalearthpacific-fnu/tree/main  
+#### Course Google Drive materials: https://drive.google.com/drive/folders/13nD9Zau3nddDtrKyoRqTl6_hEoPetyVl?usp=sharing
+
+<img width="317" height="197" alt="image" src="https://github.com/user-attachments/assets/1c680bd1-02ef-4c69-9a85-bc0fa9c66345" />
+
 
 25 September 2026: 
 https://github.com/Elle0619/eo-marine-habitats-rakiraki-2026
