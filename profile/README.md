@@ -24,7 +24,11 @@ For those students seeking to stay connected and learn more about the content of
 
 ## RECENT TOPICS 
 27 October 2026:
-DEM Exporter : https://github.com/nicholasmetherall/dem-exporter
+DEM Exporter : https://github.com/nicholasmetherall/dem-exporter  
+
+<img width="359" height="266" alt="cop-dem-glo-sample" src="https://github.com/user-attachments/assets/0174e65a-f0d0-4ed8-9009-e9b79ef1a583" />
+
+
 Digital Earth Pacific FNU : https://github.com/pacific-coding-community/digitalearthpacific-fnu/tree/main
 
 25 September 2026: 
